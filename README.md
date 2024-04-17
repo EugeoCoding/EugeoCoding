@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @EugeoCoding
-- 👀 I’m interested in anime, series and songs..
+- 👀 I’m interested in anime, series, coding and songs..
 - 🌱 I’m currently learning Pyhton, Web Developing, CPP
   
   
